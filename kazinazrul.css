@@ -1,0 +1,94 @@
+#header{
+    width: 100%;
+    height: 100px;
+    background-color: darkblue;
+    color: red;
+    text-align: center;
+}
+.subheading{
+width: 70%;
+height: 600px;
+display: inline-block;
+}
+.paraheading1{
+width: 100%;
+height: 200px
+
+}
+#img{
+    width: 10%;
+    height: 100px;
+    margin-left: 1000px;
+    margin-right: 10px;
+    margin-top: -70px;
+}
+.paraheading2{
+    width: 100%;
+    height: 200px;
+   
+}
+#button{
+    color: rgb(240, 117, 17);
+    float: right;
+    flex-flow: row;
+    margin-top:20%;
+    margin-right: 50px;
+
+}
+#button1{
+    color: brown;
+}
+#button2{
+    color: chartreuse;
+}
+h3{
+    color: red;
+    font-weight: 82px;
+}
+#heading2{
+    width: 100%;
+    height: 60px;
+    color:black;
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+#star{
+    font-size: 500%;
+    color: blue;
+    text-align: center;
+}
+#box{
+width: 100%;
+height: 100px;
+}
+#box1{
+    width: 20%;
+    height: 100px;
+    color: red;
+    border: 5px solid black;
+    float: left;
+    border-collapse: separate;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    
+}
+.poem{
+    float: left;
+    width: 20%;
+    height: 400px;
+    margin-left: 100px;
+}
+.prose{
+    float: right;
+    width: 20%;
+    height: 400px;
+    margin-right: 100px;
+}
+#submit{
+    margin-top: 20%;
+    margin-left: 500px;
+}
+
